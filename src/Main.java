@@ -8,7 +8,8 @@ public class Main {
         System.out.println("Ваш платеж составит: " + payment2 + " рублей.");
 
         int payment3 = service.calculate(1_000_000, 36, 999);
-        System.out.println("Ваш платеж составит: " + payment3 + " рублей.");;
+        System.out.println("Ваш платеж составит: " + payment3 + " рублей.");
+        ;
 
 
         // Дифференциальный платеж
